@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+
+
+
+    body {
+      padding: 3rem;
+    }
+    .quote {
+      border-left: 5px solid #ccc;
+      padding-left: 1rem;
+      margin-bottom: 2rem;
+    }
+    .coach-response {
+      background-color: #fffdd0;
+      padding: 1rem;
+      border-left: 5px solid #ccc;
+      margin-bottom: 2rem;
+    }
+    .link-new-question {
+      font-size: 0.9rem;
+    }
+    .input-group {
+      max-width: 600px;
+    }
